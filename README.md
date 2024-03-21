@@ -21,4 +21,4 @@ My projects are open-source, available under the MIT License. For more details, 
 
 # Support My Work
 
-If you appreciate what I do and would like to support me, consider becoming a sponsor. Click here to sponsor me. Your sponsorship will help me continue to innovate and create.
+If you appreciate what I do and would like to support me, consider becoming a sponsor. Click here https://github.com/sponsors/beyond-repair/card to sponsor me. Your sponsorship will help me continue to innovate and create.
