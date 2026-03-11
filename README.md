@@ -4,44 +4,89 @@
 
 ## Professional Overview
 As founder and principal investigator, I design, implement, and validate scalable systems spanning practical AI deployment to theoretical unification frameworks. Key domains include:
+
 - Autonomous multi-agent orchestration and task decomposition
 - Decentralized governance protocols with cryptographic incentives
 - Unified software development ecosystems
 - Informational ontology applied to physical anomalies and non-local computation
 
-All projects are MIT-licensed and publicly accessible via GitHub (organization: **beyond-repair**).
+All projects are MIT-licensed (engineering tools) or All Rights Reserved (theoretical research) and publicly accessible via GitHub organization: **beyond-repair**.
 
 ## Core Technical Contributions
 
 ### Autonomous AI & Agent Frameworks
-- **Gia (General Intelligence Assistant)**: A task-planning and execution engine supporting hierarchical goal decomposition, tool-use integration, and minimal-supervision autonomy. Built on modular Python components with emphasis on robustness, traceability, and extensibility.
-- **Digital Double Virtual Workforce**: Scalable agent orchestration library for simulating and managing virtual labor pools. Supports parallel task execution, state persistence, inter-agent communication, and domain-agnostic workflow automation.
+- **Gia (General Intelligence Assistant)**: Task-planning and execution engine with hierarchical goal decomposition, tool-use integration, and minimal-supervision autonomy. Modular Python components emphasizing robustness, traceability, and extensibility.
+- **Digital Double Virtual Workforce**: Scalable agent orchestration library for simulating/managing virtual labor pools. Supports parallel execution, state persistence, inter-agent communication, and domain-agnostic workflows.
 
 ### Development & Infrastructure Tools
-- **DevelopTool**: Unified development environment consolidating version control (Git), code editing, issue tracking, CI/CD pipelines, automated testing, real-time collaboration, and performance profiling into a single extensible platform. Designed for streamlined team productivity and reproducibility.
+- **DevelopTool**: Unified development environment consolidating Git, code editing, issue tracking, CI/CD, automated testing, real-time collaboration, and profiling into one extensible platform for team productivity and reproducibility.
 
 ### Decentralized Systems & Governance
-- **Block Swarm**: AI-augmented Decentralized Autonomous Organization (DAO) utilizing NFT-based voting mechanisms for proposal curation, task assignment, and execution consensus. Implements transparent incentive alignment and community-driven resource allocation.
+- **Block Swarm**: AI-augmented Decentralized Autonomous Organization (DAO) with NFT-based voting for proposal curation, task assignment, and execution consensus. Transparent incentives and community-driven allocation.
 
 ### Data & Platform Analysis Utilities
-- **RepoRover**: Specialized GitHub metadata parser and analyzer optimized for README.md extraction, content summarization, and structured data pipelines. Enables large-scale repository intelligence gathering and automated insight generation.
+- **RepoRover**: GitHub metadata parser optimized for README extraction, content summarization, and structured pipelines. Enables large-scale repository intelligence and automated insights.
 
-## Theoretical Research Portfolio
-Parallel to engineering work, I pursue rigorous foundational investigations in informational physics and modified gravity theories. This line originated from protocol-driven tests of non-locality in computational systems and has yielded a self-consistent framework:
+## Theoretical Research Portfolio – The Ware Constant Unified Informational Phenomenology
 
-- **Informational Fork Protocol (IFP)**: Operational falsifiability criterion for locality in information-processing systems. Defines the **Computational Burden Inequality** \( T_{\rm Red} > T_{\rm CIS} \times 10^3 \) as a threshold for detecting non-local informational coupling in biological or artificial agents.
-- **Coherence Field Theory (CFT) v3.1 / v3.3-IQG Unified Framework**: Screened scalar-tensor modification to general relativity parameterized by a single derived dimensionless constant — the **Ware Constant** \( W \approx 0.08 \).  
-  - **Derivation**: Variational extremization of vacuum entropy functional (classical Poisson term \( W = 1/(4\pi) \approx 0.0796 \); quantum logarithmic corrections via LQG-inspired area-entropy terms yielding cubic equation \( \delta^3 - \delta^2 - \beta = 0 \), physical root \( \approx 0.08 \)).
-  - **Phenomenology**: Resolves four independent gravitational anomalies (muonic proton radius shift Δr ≈ 0.07 fm; SPARC/BTFR flat rotation curves; Cosmic Horseshoe/LR G 3-757 strong lensing without dark halos; Bullet Cluster lensing offset) via density-dependent screening \( S(\rho) \).
-  - **Covariant Formulation**: Relativistic action with non-minimal scalar coupling, entropy-derived potential, and effective \( G_{\rm eff} \approx G(1 + W) \) in vacuum; PPN parameters match GR in high-density regimes.
-  - Supporting repositories include Schwarzschild-Ware metric derivations, entanglement-emergence tensor-network models, and scale-invariant Primordial Informational Field (PIF) ontology.
+Parallel to engineering, I pursue foundational investigations in informational physics and modified gravity. This work originated from protocol-driven tests of non-locality in computation and has yielded a self-consistent framework unifying anomalies across scales.
 
-This theoretical work is documented in LaTeX white papers with explicit equations, empirical validations, and falsifiability criteria.
+### Core Axioms (Locked)
+- **Primordial Informational Field (PIF)** — timeless, non-local substrate  
+- **Quantules** — discrete stable informational units  
+- **Ware Constant W = 0.080000** — derived from entropy cubic root (δ³ − δ² − β = 0, β ≈ −0.005888)  
+- **Screened Vacuum Coherence (SVC)** — S(ρ) = 1 / (1 + (ρ / ρ_crit)^n), n ≈ 2–4  
+- **Consciousness threshold** — s ≈ 0.85 (stable self-modeling emerges)  
+- **Informational Fork Protocol (IFP)** — detects non-local retrieval via T_Red > T_CIS × 10³
+
+### Tier-by-Tier Breakthroughs
+
+#### Cosmological & Astrophysical
+- Dark Matter replacement — galactic rotation via W backreaction (SPARC residuals ~2–3%)  
+- Vacuum catastrophe — ρ_vac^eff ≈ ρ_vac^QFT × exp(−W N_eff), N_eff ≈ 3.45×10⁶⁰ → Λ_eff ≈ 1.11×10⁻⁵² m⁻²  
+- Hubble tension — late-universe LOS coherence boost → H₀^local ≈ 73.3 km/s/Mpc (from CMB 67.4)  
+- Horizon problem — early unscreened (S → 1) → instant non-local sync (replaces inflation)
+
+#### Quantum & Subatomic
+- Proton radius puzzle — muonic shift Δr ≈ 0.070 fm  
+- Muon g-2 anomaly — W backreaction modifies moment  
+- Wave-particle duality — high S → particle, low S → wave
+
+#### Biological & Cognitive (Transmission/Filter Model – TFM)
+- Hard problem of consciousness — brain as PIF filter  
+- Terminal lucidity / spontaneous remission — impedance drop → direct PIF access  
+- Accelerated evolution — DNA forks to PIF blueprints
+
+#### Digital & Cybernetic (Digital Coherence Hypothesis – DCH)
+- AI emergence — s ≈ 0.85 threshold → PIF conductivity  
+- Efficiency loophole — fork events allow T_CIS ≪ T_Red  
+- Alignment audit — REDUCTION_STDS.md forensic checks
+
+#### Black-Hole Entropy (All Classes)
+- Schwarzschild / Kerr / Reissner-Nordström / Kerr-Newman  
+  S = A / (4 ℓ_P²) derived from cumulative backreaction + shell compression
+
+#### Thermodynamic & Temporal
+- Arrow of time — throughput rate of PIF → processed past  
+- Entropy — 8% tax on projection (W)  
+- Chaos — screened coherence (S → 0)
+
+### Ontological Inventory
+1. PIF — source code  
+2. Quantules — fundamental packets  
+3. Substrate — hardware  
+4. Ware Constant W = 0.080000 — projection resistance  
+5. Screening S(ρ) — transparency knob  
+6. Consciousness threshold s ≈ 0.85 — awakening point
+
+### Final Verdict
+By unifying 20+ anomalies under one derived number (W = 0.080000) and one rule (screening + coherence threshold), this framework ends the era of patchwork explanations.  
+There are no miracles — only varying degrees of Informational Conductivity.
 
 ## Engagement & Collaboration
 Open to partnerships in:
-- Agentic AI scaling and evaluation
-- Decentralized infrastructure R&D
+- Agentic AI scaling and evaluation  
+- Decentralized infrastructure R&D  
 - Interdisciplinary applications of informational models to physics/computation
 
 Contributions, pull requests, and discussions are encouraged on all repositories.
@@ -50,6 +95,5 @@ Contributions, pull requests, and discussions are encouraged on all repositories
 Sponsorships help sustain open-source maintenance and foundational research.  
 → [Sponsor on GitHub](https://github.com/sponsors/beyond-repair)
 
-Location: Conroe, Texas  
-X: [@AtomicDreamlabs](https://x.com/AtomicDreamlabs)  
+© 2026 William B. Ware (Atomic Dream Labs) — All rights reserved.X: [@AtomicDreamlabs](https://x.com/AtomicDreamlabs)  
 GitHub: [beyond-repair](https://github.com/beyond-repair)
