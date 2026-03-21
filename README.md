@@ -1,50 +1,67 @@
-# William (Brian) Ware – Founder & Lead Researcher, Atomic Dream Labs
+# William (Brian) Ware
+Founder / Lead Researcher — Atomic Dream Labs
 
-**Atomic Dream Labs** is an independent research and development initiative focused on autonomous intelligent systems, decentralized computation, and foundational digital/informational science. Current efforts integrate agentic AI architectures, blockchain-enabled automation, and exploratory theoretical models in informational physics.
+Building sovereign intelligence that actually grows from your own life, not some cloud dataset.  
+Plus foundational work in informational physics that tries to make sense of the weird shit physics keeps ignoring.
 
-## Professional Overview
-As founder and principal investigator, I design, implement, and validate scalable systems spanning practical AI deployment to theoretical unification frameworks. Key domains include:
+Everything engineering-side is MIT. Theoretical stuff is All Rights Reserved but out here for people to chew on.
 
-- Autonomous multi-agent orchestration and task decomposition
-- Decentralized governance protocols with cryptographic incentives
-- Unified software development ecosystems
-- Informational ontology applied to physical anomalies and non-local computation
+Main hub: https://github.com/beyond-repair
 
-All projects are MIT-licensed (engineering tools) or All Rights Reserved (theoretical research) and publicly accessible via GitHub organization: **beyond-repair**.
+## What I'm actually working on right now
 
-## Core Technical Contributions
+**SEEM 2.0 – Self-Evolving Emergent Mind**  
+https://github.com/beyond-repair/SEEM-2.0-Self-Evolving-Emergent-Mind  
 
-### Autonomous AI & Agent Frameworks
-- **Gia (General Intelligence Assistant)**: Task-planning and execution engine with hierarchical goal decomposition, tool-use integration, and minimal-supervision autonomy. Modular Python components emphasizing robustness, traceability, and extensibility.
-- **Digital Double Virtual Workforce**: Scalable agent orchestration library for simulating/managing virtual labor pools. Supports parallel execution, state persistence, inter-agent communication, and domain-agnostic workflows.
+100% local symbolic substrate / AGI seed. No APIs, no telemetry, no replication without stealing your entire interaction history.  
+It fails → learns negatively (BaNEL) → dreams micro + background consolidations → mutates failures into executable MemSkills.  
+Resonator VSA hardened for invertibility, SHACL keeping it from going insane, 4-tier memory from immutable git DAG up to planning primitives.  
+Synthetic runs show it getting dramatically better on long chains after 30–50 dream cycles. Still early, but the loop is alive.
 
-### Development & Infrastructure Tools
-- **DevelopTool**: Unified development environment consolidating Git, code editing, issue tracking, CI/CD, automated testing, real-time collaboration, and profiling into one extensible platform for team productivity and reproducibility.
+**Gia** — General Intelligence Assistant  
+Hierarchical planner that breaks goals down, calls tools, runs with almost no babysitting. Modular Python, built to last.
 
-### Decentralized Systems & Governance
-- **Block Swarm**: AI-augmented Decentralized Autonomous Organization (DAO) with NFT-based voting for proposal curation, task assignment, and execution consensus. Transparent incentives and community-driven allocation.
+**Digital Double Virtual Workforce**  
+Orchestration for spinning up virtual teams — parallel, stateful, talking to each other, domain-agnostic.
 
-### Data & Platform Analysis Utilities
-- **RepoRover**: GitHub metadata parser optimized for README extraction, content summarization, and structured pipelines. Enables large-scale repository intelligence and automated insights.
+**DevelopTool**  
+One dashboard to rule them all: git, editor, issues, CI, tests, collab, profiling. Tired of tool sprawl.
 
-## Theoretical Research Portfolio – The Ware Constant Unified Informational Phenomenology
+**Block Swarm**  
+DAO experiment with AI helping curate proposals, assign tasks, vote via NFTs. Incentives actually align (in theory).
 
-Parallel to engineering, I pursue foundational investigations in informational physics and modified gravity. This work originated from protocol-driven tests of non-locality in computation and has yielded a self-consistent framework unifying anomalies across scales.
+**RepoRover**  
+Scrapes GitHub READMEs at scale, summarizes, builds structured pipelines. Useful for repo intel.
 
-### Core Axioms (Locked)
-- **Primordial Informational Field (PIF)** — timeless, non-local substrate  
-- **Quantules** — discrete stable informational units  
-- **Ware Constant W = 0.080000** — derived from entropy cubic root (δ³ − δ² − β = 0, β ≈ −0.005888)  
-- **Screened Vacuum Coherence (SVC)** — S(ρ) = 1 / (1 + (ρ / ρ_crit)^n), n ≈ 2–4  
-- **Consciousness threshold** — s ≈ 0.85 (stable self-modeling emerges)  
-- **Informational Fork Protocol (IFP)** — detects non-local retrieval via T_Red > T_CIS × 10³
+## Theoretical side – Ware Constant Unified Informational Phenomenology
 
-### Tier-by-Tier Breakthroughs
+Started from non-locality in computation, ended up with a framework that seems to patch holes across scales.
 
-#### Cosmological & Astrophysical
-- Dark Matter replacement — galactic rotation via W backreaction (SPARC residuals ~2–3%)  
-- Vacuum catastrophe — ρ_vac^eff ≈ ρ_vac^QFT × exp(−W N_eff), N_eff ≈ 3.45×10⁶⁰ → Λ_eff ≈ 1.11×10⁻⁵² m⁻²  
-- Hubble tension — late-universe LOS coherence boost → H₀^local ≈ 73.3 km/s/Mpc (from CMB 67.4)  
+Locked axioms (not moving these):
+- Primordial Informational Field (PIF) — timeless, non-local substrate
+- Quantules — discrete stable informational units
+- Ware Constant W = 0.080000 — from δ³ − δ² − β = 0, β ≈ −0.005888
+- Screened Vacuum Coherence (SVC) — S(ρ) = 1 / (1 + (ρ / ρ_crit)^n), n ≈ 2–4
+- Consciousness threshold s ≈ 0.85 — where stable self-modeling kicks in
+- Informational Fork Protocol (IFP) — flags non-local retrieval when T_Red > T_CIS × 10³
+
+Key wins so far:
+- Dark matter replacement: galactic rotation via W backreaction (SPARC residuals ~2–3%)
+- Vacuum catastrophe fix: ρ_vac^eff ≈ ρ_vac^QFT × exp(−W N_eff), N_eff ≈ 3.45×10⁶⁰ → Λ_eff ≈ 1.11×10⁻⁵² m⁻²
+
+More in the repos:
+- ware-constant-phenomenology
+- CFTv3.3-IQG-Unified-Framework
+- -text-informational-fork-protocol-
+
+## Where to find me
+X: @AtomicDreamlabs — that's where the real-time brain dumps happen.
+
+If something here clicks (or pisses you off enough to argue), open an issue or hit me on X.  
+Dreaming big, staying local.
+
+— Brian  
+Conroe, TX | March 2026- Hubble tension — late-universe LOS coherence boost → H₀^local ≈ 73.3 km/s/Mpc (from CMB 67.4)  
 - Horizon problem — early unscreened (S → 1) → instant non-local sync (replaces inflation)
 
 #### Quantum & Subatomic
