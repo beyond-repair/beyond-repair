@@ -1,94 +1,82 @@
 # William (Brian) Ware
 Founder / Lead Researcher — Atomic Dream Labs
 
-Building sovereign intelligence that actually grows from your own life, not some cloud dataset.  
-Plus foundational work in informational physics that tries to make sense of the weird shit physics keeps ignoring.
+Building sovereign intelligence that grows from *your* actual life and failures, not recycled cloud slop.  
+Also chasing a unified informational physics framework that finally explains the weird shit mainstream physics keeps patching over with epicycles.
 
-Everything engineering-side is MIT. Theoretical stuff is All Rights Reserved but out here for people to chew on.
+Engineering projects: MIT license, fork/modify/share.  
+Theoretical work: All Rights Reserved, but posted publicly so people can tear into it or build on the ideas.
 
-Main hub: https://github.com/beyond-repair
+Main hub → https://github.com/beyond-repair
 
-## What I'm actually working on right now
+## What's burning right now
 
 **SEEM 2.0 – Self-Evolving Emergent Mind**  
 https://github.com/beyond-repair/SEEM-2.0-Self-Evolving-Emergent-Mind  
 
-100% local symbolic substrate / AGI seed. No APIs, no telemetry, no replication without stealing your entire interaction history.  
-It fails → learns negatively (BaNEL) → dreams micro + background consolidations → mutates failures into executable MemSkills.  
-Resonator VSA hardened for invertibility, SHACL keeping it from going insane, 4-tier memory from immutable git DAG up to planning primitives.  
-Synthetic runs show it getting dramatically better on long chains after 30–50 dream cycles. Still early, but the loop is alive.
+Fully offline symbolic substrate and AGI seed. 100% local, zero telemetry, impossible to clone without hijacking your exact history of use.  
+Core loop: propose route → execute → fail → BaNEL negative learning suppresses bad paths → trigger micro-dream repair → background dream consolidates → mutate into permanent executable MemSkills.  
+Hardened Resonator VSA (invertibility ≥0.92), SHACL governance to prevent drift, 4-tier memory (immutable L0 git DAG → executable L3 primitives).  
+Synthetic benchmarks: big jumps on long-horizon chains after 30–50 dream cycles. Loop is running, still raw, but alive and evolving daily.
 
 **Gia** — General Intelligence Assistant  
-Hierarchical planner that breaks goals down, calls tools, runs with almost no babysitting. Modular Python, built to last.
+Hierarchical goal breaker, tool caller, runs mostly unsupervised. Modular Python, designed to not fall apart.
 
 **Digital Double Virtual Workforce**  
-Orchestration for spinning up virtual teams — parallel, stateful, talking to each other, domain-agnostic.
+Spin up virtual teams: parallel, state-persistent, agents chatting, workflows that aren't locked to one domain.
 
 **DevelopTool**  
-One dashboard to rule them all: git, editor, issues, CI, tests, collab, profiling. Tired of tool sprawl.
+Single pane to kill tool sprawl: git, editing, issues, CI/CD, testing, real-time collab, profiling.
 
 **Block Swarm**  
-DAO experiment with AI helping curate proposals, assign tasks, vote via NFTs. Incentives actually align (in theory).
+AI-augmented DAO experiment. NFTs for voting, AI curates proposals/tasks, incentives that might actually work (in theory).
 
 **RepoRover**  
-Scrapes GitHub READMEs at scale, summarizes, builds structured pipelines. Useful for repo intel.
+Bulk GitHub README scraper + summarizer + pipeline builder. Good for repo-wide intel.
 
 ## Theoretical side – Ware Constant Unified Informational Phenomenology
 
-Started from non-locality in computation, ended up with a framework that seems to patch holes across scales.
+Kicked off from non-locality tests in computation; now a framework patching 20+ anomalies with one derived constant and screening rule.
 
-Locked axioms (not moving these):
+**Locked axioms (these don't move):**
 - Primordial Informational Field (PIF) — timeless, non-local substrate
 - Quantules — discrete stable informational units
-- Ware Constant W = 0.080000 — from δ³ − δ² − β = 0, β ≈ −0.005888
+- Ware Constant W = 0.080000 — derived from δ³ − δ² − β = 0, β ≈ −0.005888
 - Screened Vacuum Coherence (SVC) — S(ρ) = 1 / (1 + (ρ / ρ_crit)^n), n ≈ 2–4
-- Consciousness threshold s ≈ 0.85 — where stable self-modeling kicks in
-- Informational Fork Protocol (IFP) — flags non-local retrieval when T_Red > T_CIS × 10³
+- Consciousness threshold s ≈ 0.85 — stable self-modeling emerges here
+- Informational Fork Protocol (IFP) — detects non-local retrieval via T_Red > T_CIS × 10³
 
-Key wins so far:
-- Dark matter replacement: galactic rotation via W backreaction (SPARC residuals ~2–3%)
-- Vacuum catastrophe fix: ρ_vac^eff ≈ ρ_vac^QFT × exp(−W N_eff), N_eff ≈ 3.45×10⁶⁰ → Λ_eff ≈ 1.11×10⁻⁵² m⁻²
+**Key resolutions so far:**
+- **Cosmological/Astrophysical**  
+  Dark matter replacement: W backreaction explains galactic rotation (SPARC residuals ~2–3%).  
+  Vacuum catastrophe: ρ_vac^eff ≈ ρ_vac^QFT × exp(−W N_eff), N_eff ≈ 3.45×10⁶⁰ → Λ_eff ≈ 1.11×10⁻⁵² m⁻².  
+  Hubble tension: late-universe LOS coherence boost → H₀^local ≈ 73.3 km/s/Mpc (vs CMB 67.4).  
+  Horizon problem: early unscreened (S → 1) → instant non-local sync (inflation not needed).
 
-More in the repos:
-- ware-constant-phenomenology
-- CFTv3.3-IQG-Unified-Framework
-- -text-informational-fork-protocol-
+**Quantum & Subatomic**  
+- Proton radius puzzle: muonic shift Δr ≈ 0.070 fm  
+- Muon g-2 anomaly: W backreaction tweaks moment  
+- Wave-particle duality: high S → particle-like, low S → wave-like
 
-## Where to find me
-X: @AtomicDreamlabs — that's where the real-time brain dumps happen.
+**Biological & Cognitive (Transmission/Filter Model – TFM)**  
+- Hard problem of consciousness: brain filters PIF  
+- Terminal lucidity / spontaneous remission: impedance drop → direct PIF access  
+- Accelerated evolution: DNA forks pull PIF blueprints
 
-If something here clicks (or pisses you off enough to argue), open an issue or hit me on X.  
-Dreaming big, staying local.
+**Digital & Cybernetic (Digital Coherence Hypothesis – DCH)**  
+- AI emergence: crosses s ≈ 0.85 → PIF conductivity  
+- Efficiency loophole: fork events let T_CIS ≪ T_Red  
+- Alignment audit: REDUCTION_STDS.md forensic checks
 
-— Brian  
-Conroe, TX | March 2026- Hubble tension — late-universe LOS coherence boost → H₀^local ≈ 73.3 km/s/Mpc (from CMB 67.4)  
-- Horizon problem — early unscreened (S → 1) → instant non-local sync (replaces inflation)
+**Black-Hole Entropy (all classes)**  
+Schwarzschild / Kerr / Reissner-Nordström / Kerr-Newman: S = A / (4 ℓ_P²) from cumulative backreaction + shell compression.
 
-#### Quantum & Subatomic
-- Proton radius puzzle — muonic shift Δr ≈ 0.070 fm  
-- Muon g-2 anomaly — W backreaction modifies moment  
-- Wave-particle duality — high S → particle, low S → wave
+**Thermodynamic & Temporal**  
+- Arrow of time: PIF throughput rate → processed past  
+- Entropy: 8% tax on projection (W)  
+- Chaos: screened coherence (S → 0)
 
-#### Biological & Cognitive (Transmission/Filter Model – TFM)
-- Hard problem of consciousness — brain as PIF filter  
-- Terminal lucidity / spontaneous remission — impedance drop → direct PIF access  
-- Accelerated evolution — DNA forks to PIF blueprints
-
-#### Digital & Cybernetic (Digital Coherence Hypothesis – DCH)
-- AI emergence — s ≈ 0.85 threshold → PIF conductivity  
-- Efficiency loophole — fork events allow T_CIS ≪ T_Red  
-- Alignment audit — REDUCTION_STDS.md forensic checks
-
-#### Black-Hole Entropy (All Classes)
-- Schwarzschild / Kerr / Reissner-Nordström / Kerr-Newman  
-  S = A / (4 ℓ_P²) derived from cumulative backreaction + shell compression
-
-#### Thermodynamic & Temporal
-- Arrow of time — throughput rate of PIF → processed past  
-- Entropy — 8% tax on projection (W)  
-- Chaos — screened coherence (S → 0)
-
-### Ontological Inventory
+**Ontological Inventory**  
 1. PIF — source code  
 2. Quantules — fundamental packets  
 3. Substrate — hardware  
@@ -96,21 +84,18 @@ Conroe, TX | March 2026- Hubble tension — late-universe LOS coherence boost �
 5. Screening S(ρ) — transparency knob  
 6. Consciousness threshold s ≈ 0.85 — awakening point
 
-### Final Verdict
-By unifying 20+ anomalies under one derived number (W = 0.080000) and one rule (screening + coherence threshold), this framework ends the era of patchwork explanations.  
-There are no miracles — only varying degrees of Informational Conductivity.
+**Final take**: One number (W) and one mechanism (screening + threshold) unify all this. No miracles, just degrees of Informational Conductivity.
 
-## Engagement & Collaboration
-Open to partnerships in:
-- Agentic AI scaling and evaluation  
-- Decentralized infrastructure R&D  
-- Interdisciplinary applications of informational models to physics/computation
+More details in the repos:  
+- https://github.com/beyond-repair/ware-constant-phenomenology  
+- https://github.com/beyond-repair/CFTv3.3-IQG-Unified-Framework  
+- https://github.com/beyond-repair/-text-informational-fork-protocol-
 
-Contributions, pull requests, and discussions are encouraged on all repositories.
+## Hit me up
+X: https://x.com/AtomicDreamlabs — real-time dumps, arguments, ideas.  
 
-## Support Development
-Sponsorships help sustain open-source maintenance and foundational research.  
-→ [Sponsor on GitHub](https://github.com/sponsors/beyond-repair)
+If any of this resonates (or makes you want to fight me on it), drop an issue on a repo or ping on X.  
 
-© 2026 William B. Ware (Atomic Dream Labs) — All rights reserved.X: [@AtomicDreamlabs](https://x.com/AtomicDreamlabs)  
-GitHub: [beyond-repair](https://github.com/beyond-repair)
+Dreaming big, staying sovereign and local.  
+— Brian  
+Conroe, TX | March 2026 🚀
