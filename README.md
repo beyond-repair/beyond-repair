@@ -25,7 +25,7 @@
 
 ```
 THIS REPO   profile README only (not an ACTIVE product)
-CENSUS      75 repositories · Sweep-103 (search authority)
+CENSUS      81 repositories · 2026-10-01 search authority
 CLAIMS      capped — see CLAIM_STATUS.md
 ```
 
@@ -71,7 +71,7 @@ GitHub profile index. Classification, claim integrity, and lifecycle live in [AD
 |----------|------|
 | [ADL-Portfolio-Census](https://github.com/beyond-repair/ADL-Portfolio-Census) | Deterministic SCAN/FORK/ANCHOR inventory |
 | [aegis-repo-graph](https://github.com/beyond-repair/aegis-repo-graph) | FLS-aligned Artifact Graph of the portfolio |
-| [adl-capability-matrix](https://github.com/beyond-repair/adl-capability-matrix) | Cluster matrix + compatible-build queue (67-row snapshot; live census 75) |
+| [adl-capability-matrix](https://github.com/beyond-repair/adl-capability-matrix) | Cluster matrix + compatible-build queue (67-row snapshot; live census 81) |
 | [adl-function-census](https://github.com/beyond-repair/adl-function-census) | Module-surface function census |
 | [os-family-constitution-map](https://github.com/beyond-repair/os-family-constitution-map) | Identity map for Sovereign-OS family |
 | [seem-identity-unifier](https://github.com/beyond-repair/seem-identity-unifier) | SEEM identity map |
@@ -111,7 +111,7 @@ See [CLAIM_STATUS.md](CLAIM_STATUS.md) and [GOVERNANCE.md](GOVERNANCE.md).
 
 **REWRITE · BUILD · TRANSCEND**
 
-**William (Brian) Ware** · Houston, TX  
+**William (Brian) Ware**  
 [GitHub](https://github.com/beyond-repair) · [X @AtomicDreamlabs](https://x.com/AtomicDreamlabs)
 
 </div>
