@@ -1,9 +1,9 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
+╔═════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
-║     █████╗ ████████╗ ██████╗ ███╗   ███╗██║ ██████╗              ║
+║     █████╗ ████████╗ ██████╗ ████╗   ████╗██╗ ██████╗              ║
 ║    ██╔══██╗╚══██╔══╝██╔═══██╗████╗ ████║██║██╔════╝              ║
 ║    ███████║   ██║   ██║   ██║██╔████╔██║██║██║                   ║
 ║    ██╔══██║   ██║   ██║   ██║██║╚██╔╝██║██║██║                   ║
@@ -11,7 +11,7 @@
 ║    ╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝     ╚═╝╚═╝ ╚═════╝              ║
 ║                                                                  ║
 ║              ＤＲＥＡＭ  ＬＡＢＳ  ·  ＢＥＹＯＮＤ－ＲＥＰＡＩＲ   ║
-╚══════════════════════════════════════════════════════════════════╝
+╚═════════════════════════════════════════════════════════════════╝
 ```
 
 # ATOMIC DREAM LABS
@@ -25,7 +25,7 @@
 
 ```
 THIS REPO   profile README only (not an ACTIVE product)
-CENSUS      81 repositories · 2026-10-01 search authority
+CENSUS      86 repositories · 2026-11-06 search authority
 CLAIMS      capped — see CLAIM_STATUS.md
 ```
 
@@ -42,16 +42,16 @@ GitHub profile index. Classification, claim integrity, and lifecycle live in [AD
 ## ▌ HOW THE LAB IS WIRED
 
 ```text
-                         ┌──────────────────────────┐
+                         ┌─────────────────────────┐
                          │     ADL-GOVERNANCE      │
                          │  classify · claim 0–5   │
                          │  registry · lifecycle   │
-                         └───────────┴─────────────┘
+                         └──────────┴────────────┘
                                      │
-        ┌───────────────────────────┼───────────────────────────┐
+        ┌──────────────────────────┼────────────────────────┐
         │                            │                            │
         ▼                            ▼                            ▼
-┌───────────────┐          ┌─────────────────┐          ┌─────────────────┐
+┌──────────────┐          ┌────────────────┐          ┌────────────────┐
 │ ENGINEERING   │          │ SECURITY          │          │ RESEARCH         │
 │               │          │                   │          │                  │
 │ Clean-Room    │          │ forge-aegis       │          │ coherence-drive  │
@@ -60,9 +60,9 @@ GitHub profile index. Classification, claim integrity, and lifecycle live in [AD
 │ BlockSwarm    │          │ Nehemiah          │          │ satellites:      │
 │  AI≠execute   │          │  spec sibling     │          │  geometry·stress │
 │               │          │                   │          │  SPARC·CFT       │
-│ Digital Double│          └─────────────────┘          └─────────────────┘
+│ Digital Double│          └────────────────┘          └────────────────┘
 │  product agents│
-└───────────────┘
+└──────────────┘
 ```
 
 ### Mapping & Census Layer (claim-capped)
@@ -71,7 +71,7 @@ GitHub profile index. Classification, claim integrity, and lifecycle live in [AD
 |----------|------|
 | [ADL-Portfolio-Census](https://github.com/beyond-repair/ADL-Portfolio-Census) | Deterministic SCAN/FORK/ANCHOR inventory |
 | [aegis-repo-graph](https://github.com/beyond-repair/aegis-repo-graph) | FLS-aligned Artifact Graph of the portfolio |
-| [adl-capability-matrix](https://github.com/beyond-repair/adl-capability-matrix) | Cluster matrix + compatible-build queue (67-row snapshot; live census 81) |
+| [adl-capability-matrix](https://github.com/beyond-repair/adl-capability-matrix) | Cluster matrix + compatible-build queue (67-row snapshot; live census 86) |
 | [adl-function-census](https://github.com/beyond-repair/adl-function-census) | Module-surface function census |
 | [os-family-constitution-map](https://github.com/beyond-repair/os-family-constitution-map) | Identity map for Sovereign-OS family |
 | [seem-identity-unifier](https://github.com/beyond-repair/seem-identity-unifier) | SEEM identity map |
