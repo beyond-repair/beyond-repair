@@ -14,5 +14,5 @@
 
 ## Census note
 
-Live `user:beyond-repair` search total_count as of Sweep-103 (2026-09-07): **75**.
+Live `user:beyond-repair` search total_count as of Sweep-675 (2026-11-06): **86** (81 public).
 Profile `public_repos` may differ; search list is inventory authority for sweeps.
